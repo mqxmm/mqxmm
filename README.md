@@ -1,8 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg)
 
-**I'm Drew**
-
-I'm in the business of creating things. I hope you enjoy them.
+Hi
 
 <details>
 <summary>
