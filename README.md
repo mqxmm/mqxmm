@@ -24,5 +24,9 @@
 <br />
 
 ### View my stats on Github 
-![mqxmm GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mqxmm&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mqxmm&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=mqxmm&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mqxmm&hide=TeX&layout=compact)
+
+
+
+
 
