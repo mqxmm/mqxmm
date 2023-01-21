@@ -1,7 +1,8 @@
 ![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg)
 
-
-### zdarova everyone ![visitors](https://visitor-badge.glitch.me/badge?page_id=mqxmm&left_color=green&right_color=blue)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&duration=3500&pause=500&multiline=true&width=435&height=80&lines=zdarova+everyone;i'm+ctf+player+in+team8)](https://git.io/typing-svg)<br>
+![GitHub followers](https://img.shields.io/github/followers/mqxmm?label=Follow&style=social)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=mqxmm.mqxmm)
 
 ### Languages, Technologies and Tools:
 
@@ -23,10 +24,5 @@
   ![Cisco](https://img.shields.io/badge/Cisco-gray?style=flat-square&logo=cisco)
 <br />
 
-### View my stats on Github 
+### My activity
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mqxmm&count_private=true&show_icons=true&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mqxmm&hide=TeX&layout=compact)
-
-
-
-
-
