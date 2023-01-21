@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&duration=3500&pause=500&multiline=true&width=435&height=80&lines=zdarova+everyone;i'm+ctf+player+in+team8)](https://git.io/typing-svg)<br>
-![GitHub followers](https://img.shields.io/github/followers/mqxmm?label=Follow&style=social)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&duration=3500&pause=500&multiline=true&width=435&height=80&lines=zdarova+everyone;i'm+ctf+player+in+team8)<br>
+
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=mqxmm.mqxmm)
 
 ### Languages, Technologies and Tools:
