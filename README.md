@@ -24,5 +24,5 @@
   ![Cisco](https://img.shields.io/badge/Cisco-gray?style=flat-square&logo=cisco)
 <br />
 
-### My activity
+### Top langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mqxmm&hide=TeX&layout=compact)
