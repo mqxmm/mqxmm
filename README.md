@@ -2,7 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=200&size=30&duration=3500&pause=500&multiline=true&width=435&height=80&lines=zdarova+everyone;i'm+ctf+player+in+team8)<br>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=mqxmm.mqxmm)
+![](https://komarev.com/ghpvc/?username=mqxmm&style=plastic&label=Visitors)
+
 
 ### Languages, Technologies and Tools:
 
