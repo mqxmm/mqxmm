@@ -26,8 +26,8 @@
 
 ### 🖥 Past work
 
-<a href="https://github.com/mqxmm/c2-runner">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mqxmm&repo=c2-runner&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/mqxmm/C2-runner">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mqxmm&repo=C2-runner&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 
 ### 📊 Top langs
