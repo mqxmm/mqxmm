@@ -26,11 +26,14 @@
 <br />
 
 
-# <h3>🖥 Past work</h3>
+# <h3>Past work</h3>
 <a href="https://github.com/mqxmm/C2-runner">
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=mqxmm&repo=C2-runner&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 
-# <h3>📊 Top langs</h3>
+# <h3>Top langs</h3>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mqxmm&hide=TeX&layout=compact&border_color=02D892&bg_color=0D1117&text_color=8B949E&title_color=C9D1D9)
-</div>
+
+
+# <h3>Stats </h3>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mqxmm&theme=blue_green)</div>
