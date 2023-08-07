@@ -8,7 +8,6 @@
 # <h3>Skills</h3>
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JS](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
 
 
