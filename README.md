@@ -9,6 +9,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
+![Powershell](https://img.shields.io/badge/-Powershell-black?style=flat-square&logo=powershell)
 
 
  
